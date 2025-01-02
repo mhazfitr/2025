@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css ">
+    <title>This is a recap</title>
+
+</head>
+<body>
+    <header><h1>This is a revision</h1></header>
+    <main class="main1">
+        <p>This is a revision of what I have learned thus far. The important thing is to cement the concepts</p>
+        <h3>Remember the little elements</h3>
+        <hr>
+        <section>
+            <h4>What's in HTML?</h4>
+            <ol>
+                <li>Navigation</li>
+                <li>Body</li>
+                <li>Forms</li>
+                <li>Footer</li>
+            </ol>
+        </section>
+        <section class="main2">
+            <h4>Form elements & Attributes</h4>
+            <p>For forms, must remember the type and attributes. These are essential as they will make your forms function as it should be.</p>
+            <p>Take for example:</p><br>
+            <p type="forms">This is a form</p>
+            <button type="password">This button is for password</button>    
+        </section>
+        <section class="main3"><h4>This is where I need to learn the UI of VSCode and its features</h4></section>
+    </main>
+    
+</body>
+</html>  
